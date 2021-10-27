@@ -1,7 +1,5 @@
 # Blog-app
 This is blog app assignment
-# Blog-app
-This is blog app assignment
 Motivation
 Implemented a blog app .This is an assignment.<br /> 
 **Features:**<br /> 
